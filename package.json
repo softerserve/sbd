@@ -1,0 +1,14 @@
+{
+  "name": "sbd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animals.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "RHMc",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
